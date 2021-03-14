@@ -1,0 +1,16 @@
+* {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img {
+    width: 200px;
+}
+#title {
+    background-color: lightcyan;
+}
+#main-text {
+    background-color: lightcyan;
+}
+#vid {
+    background-color: mintcream;
+}
